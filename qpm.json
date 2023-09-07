@@ -4,11 +4,11 @@
   "info": {
     "name": "SongDataCore",
     "id": "songdatacore",
-    "version": "0.1.0",
+    "version": "0.7.0",
     "url": "https://github.com/Fernthedev/songdatacore_rust",
     "additionalData": {
-      "overrideSoName": "libandroid-libsong_data_core_rust.so",
-      "soLink": "https://github.com/Fernthedev/songdatacore_rust/releases/download/0.1.0/aarch64-linux-android-libsong_data_core_rust.so"
+      "overrideSoName": "libsong_data_core_rust.so",
+      "soLink": "https://github.com/esheltone/songdatacore_rust/releases/download/0.7.0/libsong_data_core_rust.so"
     }
   },
   "dependencies": [],

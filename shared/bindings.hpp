@@ -36,6 +36,8 @@ struct BeatStarSongDifficultyStats {
   float approximate_pp_value;
   float stars;
   bool ranked;
+  float stars_bl;
+  bool ranked_bl;
   float njs;
   float njs_offset;
   uint32_t bombs;

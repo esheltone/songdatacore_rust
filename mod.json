@@ -1,0 +1,15 @@
+{
+  "_QPVersion": "0.1.1",
+  "id": "songdatacore",
+  "name": "SongDataCore",
+  "version": "0.7.0",
+  "author": "Fernthedev",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.28.0_4124311467",
+  "description": [
+    "A utility library for other mods to use for getting song data."
+  ],
+  "modFiles": [
+    "libsong_data_core_rust.so"
+  ]
+}

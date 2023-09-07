@@ -475,6 +475,10 @@ pub struct BeatStarSongDifficultyStats {
     pub stars: f32,
     #[serde(default)]
     pub ranked: bool,
+    #[serde(rename = "StarsBl")]
+    pub stars_bl: f32,
+    #[serde(rename = "RankedBl")]
+    pub ranked_bl: bool,
     pub njs: f32,
     #[serde(rename = "NjsOffset")]
     pub njs_offset: f32,
